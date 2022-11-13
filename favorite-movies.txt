@@ -6,3 +6,4 @@ HoneyBadgers Favorite Movies
 4. Batman
 5. Avengers Infinity War
 6. Avengers End Game
+7. Barbarian
